@@ -1,0 +1,8 @@
+# emacs backups/locks
+*~
+*#
+.#*
+*_flymake.[ch]
+
+examples/from-readme
+examples/small
